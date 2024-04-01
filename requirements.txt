@@ -1,6 +1,3 @@
-Python <3.5
 streamlit
 requests
-datetime
-time
 pandas
